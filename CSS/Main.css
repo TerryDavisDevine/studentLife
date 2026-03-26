@@ -2,8 +2,12 @@ html,body{
     height: 100%;
 }
 .header,.footer{
-    background-color: blueviolet;
+    background-color: #4B006E;
     min-height: 10%;
+}
+
+p{
+
 }
 .fraclass{
     height:1000px;
