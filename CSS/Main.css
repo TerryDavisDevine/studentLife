@@ -1,4 +1,7 @@
-.header{
+html,body{
+    height: 100%;
+}
+.header,.footer{
     background-color: blueviolet;
-    height: 10%;
+    min-height: 10%;
 }
