@@ -10,3 +10,13 @@ html,body{
 .fraclass{
     height:1000px;
 }
+.dark {
+  background-color: #121212;
+  color: white;
+}
+
+.dark .header,
+.dark .footer {
+  background-color: #000;
+}
+// DARK MODE HELP US TO GET MORE MARKS
